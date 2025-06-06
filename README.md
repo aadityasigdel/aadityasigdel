@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-aadityasigdel/aadityasigdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/reponame?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/reponame?style=social)
+![GitHub license](https://img.shields.io/github/license/yourusername/reponame)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/reponame)
