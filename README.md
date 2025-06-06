@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Sigdel</h1>
-<h3 align="center">A passionate Full stack Developer</h3>
+<h3 align="center">
+I'm a passionate Full Stack Developer currently working on the "Badhau Gyan" project. I specialize in React, Node.js, and PostgreSQL, and I'm actively learning the MEAN stack.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityasigdel&label=Profile%20views&color=0e75b6&style=flat" alt="aadityasigdel" /> </p>
 
