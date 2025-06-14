@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Sigdel</h1>
 <h3 align="center">
-  I'm a passionate Full Stack Developer currently working on the "Badhau Gyan" project. I specialize in React, Node.js, and PostgreSQL, and I'm actively learning the MEAN stack.
+  I'm a passionate Full Stack Developer currently working on the "Badhau Gyan" project. React, Node.js, Express, PostgreSQL, MongoDB, and RESTful APIs and I'm actively learning the MEAN stack.
 </h3>
 
 <p align="left">
