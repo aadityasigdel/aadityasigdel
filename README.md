@@ -74,15 +74,3 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityasigdel&show_icons=true&locale=en&layout=compact&cache_seconds=0" alt="aadityasigdel" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityasigdel&show_icons=true&locale=en&cache_seconds=0" alt="aadityasigdel" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityasigdel&cache_seconds=0" alt="aadityasigdel" />
-</p>
