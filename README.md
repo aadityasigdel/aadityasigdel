@@ -14,7 +14,10 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
+ <a href="https://www.linkedin.com/in/aaditya-sigdel-902539284/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
+</a>
+ <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/twitter/follow/aadityasigdel?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
