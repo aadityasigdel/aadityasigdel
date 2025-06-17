@@ -24,7 +24,7 @@
 - 💬 Ask me about **React, Node JS, PostgreSQL**  
 - 📫 How to reach me **Aadityasigdel953@gmail.com**
 
-<a href="https://linkedin.com/in/aadityasigdel" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/aaditya-sigdel-902539284/" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityasigdel LinkedIn" height="30" width="40" />
 </a>
 
