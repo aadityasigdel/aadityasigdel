@@ -3,15 +3,6 @@
   I'm a passionate Full Stack Developer currently working on the "Badhau Gyan" project. React, Node.js, Express, PostgreSQL, MongoDB, and RESTful APIs and I'm actively learning the MEAN stack.
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aadityasigdel&label=Profile%20views&color=0e75b6&style=flat" alt="aadityasigdel" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aadityasigdel" alt="aadityasigdel" />
-  </a>
-</p>
 
 <p align="left">
  <a href="https://www.linkedin.com/in/aaditya-sigdel-902539284/" target="_blank" rel="noopener noreferrer">
